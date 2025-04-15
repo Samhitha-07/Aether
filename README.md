@@ -1,0 +1,2 @@
+# Aether
+An agentic chatbot
