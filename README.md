@@ -15,6 +15,11 @@ Aether is an advanced agentic chatbot built with cutting-edge LLMs like OpenAI a
 - Context-aware, memory-enabled conversations (coming soon)
 ## Screenshots
 
+<img src="https://github.com/user-attachments/assets/8b588e32-36b9-4b67-b47a-51d46a4684fe" alt="Screenshot 1" width="500"/>
+
+<br/>
+
+<img src="https://github.com/user-attachments/assets/adf7d1a3-d53b-4865-b814-6d55649a0d0c" alt="Screenshot 2" width="500"/>
 
 ## Tech Stack
 Frontend: Streamlit 
@@ -27,21 +32,21 @@ Web Search: Tavilly API
 
 ## Setup Instructions
 
-### Clone the repository
+#### Clone the repository
 ```
 git clone https://github.com/Samhitha-07/Aether.git
 cd Aether
 ```
-### Create and activate virtual environment
+#### Create and activate virtual environment
 ```
 python -m venv venv
 venv\Scripts\activate   # On Windows
 ```
-### Install dependencies
+#### Install dependencies
 ```
 pip install -r requirements.txt
 ```
-### Run the app
+#### Run the app
 ```
 python frontend.py
 ```
