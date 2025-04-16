@@ -1,0 +1,11 @@
+openai
+groq
+tavily-python
+langchain
+streamlit
+python-dotenv
+requests
+numpy
+pandas
+uvicorn
+fastapi
